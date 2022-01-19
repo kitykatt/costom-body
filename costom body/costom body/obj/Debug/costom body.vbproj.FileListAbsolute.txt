@@ -1,0 +1,11 @@
+C:\Users\kjlop643\source\repos\costom body\costom body\bin\Debug\costom body.exe.config
+C:\Users\kjlop643\source\repos\costom body\costom body\bin\Debug\costom body.exe
+C:\Users\kjlop643\source\repos\costom body\costom body\bin\Debug\costom body.pdb
+C:\Users\kjlop643\source\repos\costom body\costom body\bin\Debug\costom body.xml
+C:\Users\kjlop643\source\repos\costom body\costom body\obj\Debug\costom body.vbprojAssemblyReference.cache
+C:\Users\kjlop643\source\repos\costom body\costom body\obj\Debug\costom_body.Form1.resources
+C:\Users\kjlop643\source\repos\costom body\costom body\obj\Debug\costom_body.Resources.resources
+C:\Users\kjlop643\source\repos\costom body\costom body\obj\Debug\costom body.vbproj.GenerateResource.cache
+C:\Users\kjlop643\source\repos\costom body\costom body\obj\Debug\costom body.exe
+C:\Users\kjlop643\source\repos\costom body\costom body\obj\Debug\costom body.xml
+C:\Users\kjlop643\source\repos\costom body\costom body\obj\Debug\costom body.pdb
