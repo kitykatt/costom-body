@@ -9,3 +9,15 @@ C:\Users\kjlop643\source\repos\costom body\costom body\obj\Debug\costom body.vbp
 C:\Users\kjlop643\source\repos\costom body\costom body\obj\Debug\costom body.exe
 C:\Users\kjlop643\source\repos\costom body\costom body\obj\Debug\costom body.xml
 C:\Users\kjlop643\source\repos\costom body\costom body\obj\Debug\costom body.pdb
+F:\Downloads\costom body\costom body\bin\Debug\costom body.exe.config
+F:\Downloads\costom body\costom body\bin\Debug\costom body.exe
+F:\Downloads\costom body\costom body\bin\Debug\costom body.pdb
+F:\Downloads\costom body\costom body\bin\Debug\costom body.xml
+F:\Downloads\costom body\costom body\obj\Debug\costom body.vbproj.AssemblyReference.cache
+F:\Downloads\costom body\costom body\obj\Debug\costom_body.Form1.resources
+F:\Downloads\costom body\costom body\obj\Debug\costom_body.Resources.resources
+F:\Downloads\costom body\costom body\obj\Debug\costom body.vbproj.GenerateResource.cache
+F:\Downloads\costom body\costom body\obj\Debug\costom body.vbproj.CoreCompileInputs.cache
+F:\Downloads\costom body\costom body\obj\Debug\costom body.exe
+F:\Downloads\costom body\costom body\obj\Debug\costom body.xml
+F:\Downloads\costom body\costom body\obj\Debug\costom body.pdb
